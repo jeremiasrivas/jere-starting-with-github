@@ -17,3 +17,4 @@ git remote add origin https://github.com/jeremiasrivas/jere-starting-with-github
 To push changes to the github cloud type "git push"
 git push -u origin master 
 A new line has been added 
+starting a base code on GitHub
