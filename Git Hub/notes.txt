@@ -1,0 +1,17 @@
+git init=initializes changes in the project
+wokrking directory=where you’ll be doing all the work: creating, editing, deleting and organizing files
+Staging Area=where you’ll list changes you make to the working directory
+A repository= where Git permanently stores those changes as different versions of the project
+git add scene-1.txt  = add file to staging area 
+git diff= checks differences between the directory and staging area 
+git commit= permanently stores changes from the staging area inside the repository
+git commit -m "Complete first line of dialogue"
+git log=Commits are stored chronologically in the repository and can be viewed
+git status=inspects the contents of the working directory and staging area 
+GETTING STARTED WITH GIT HUB
+*Creating a repo(repository) on GitHub 
+*Pushing to a remote repo 
+*Some common pitfalls(mistakes
+git ignore=
+git remote add origin https://github.com/jeremiasrivas/jere-starting-with-github.git
+
