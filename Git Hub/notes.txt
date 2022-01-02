@@ -16,4 +16,4 @@ git ignore=
 git remote add origin https://github.com/jeremiasrivas/jere-starting-with-github.git
 To push changes to the github cloud type "git push"
 git push -u origin master 
-
+A new line has been added 
