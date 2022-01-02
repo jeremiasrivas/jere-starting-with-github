@@ -14,4 +14,6 @@ GETTING STARTED WITH GIT HUB
 *Some common pitfalls(mistakes
 git ignore=
 git remote add origin https://github.com/jeremiasrivas/jere-starting-with-github.git
+To push changes to the github cloud type "git push"
+git push -u origin master 
 
